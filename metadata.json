@@ -1,0 +1,6 @@
+{
+  "name": "Dash & Friends Snowball Fight",
+  "description": "Dash & Friends Snowball Fight! (2013) - Epic winter snowball battle featuring Dash, Dot, Hooper, and Raccoon Dash with classic arcade snowball throws, power-ups, snowman builder, and winter stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
